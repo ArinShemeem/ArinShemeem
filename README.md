@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Arin Shemeem!</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArinShemeem&style=flat-square" alt="Profile views" />
-</p>
+
 
 ## 🧑‍💻 About Me
 
