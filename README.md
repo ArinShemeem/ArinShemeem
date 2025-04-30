@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 
 I'm currently pursuing B-Tech in Electronics and Communication at Cochin University of Science and Technology.  
-I'm passionate about building impactful projects with **Python** and **Django**, diving deep into **Machine Learning**, and deploying applications using **AWS**. I also have a strong foundation in **C** and **C++**.
+I'm passionate about building impactful projects with **Python** and **Django**, diving deep into **Machine Learning**, and deploying applications using **AWS**. I also have a strong foundation in **C**, **C++**, and **Java**.
 
 Always eager to explore new technologies and collaborate on open-source or innovative projects!
 
@@ -23,6 +23,7 @@ Always eager to explore new technologies and collaborate on open-source or innov
 ### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
@@ -40,10 +41,6 @@ Always eager to explore new technologies and collaborate on open-source or innov
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArinShemeem&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ArinShemeem&theme=radical" width="47%"/>
-</p>
+
 
