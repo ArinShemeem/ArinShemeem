@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm currently pursuing B-Tech in Electronics and Communication at Cochin University of Science and Technology.  
+B-Tech graduate in Electronics and Communication at Cochin University of Science and Technology.  
 I'm passionate about building impactful projects with **Python** and **Django**, diving deep into **Machine Learning**, and deploying applications using **AWS**. I also have a strong foundation in **C**, **C++**, and **Java**.
 
 Always eager to explore new technologies and collaborate on open-source or innovative projects!
