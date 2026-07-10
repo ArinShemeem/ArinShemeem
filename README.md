@@ -4,10 +4,12 @@
 
 ## 🧑‍💻 About Me
 
-B-Tech graduate in Electronics and Communication at Cochin University of Science and Technology.  
-I'm passionate about building impactful projects with **Python** and **Django**, diving deep into **Machine Learning**, and deploying applications using **AWS**. I also have a strong foundation in **C**, **C++**, and **Java**.
+B.Tech graduate in Electronics and Communication from Cochin University of Science and Technology.
 
-Always eager to explore new technologies and collaborate on open-source or innovative projects!
+Passionate about **Artificial Intelligence** and **Machine Learning**, with a strong interest in building intelligent applications using **Python**. I enjoy exploring **Deep Learning**, **Large Language Models (LLMs)**, and solving real-world problems through AI. I also have a solid foundation in **C**, **C++**, and **Java**.
+
+Always eager to learn emerging AI technologies, contribute to innovative projects, and collaborate with like-minded developers.
+
 
 ## 🔗 Connect with Me
 
